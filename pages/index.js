@@ -4,6 +4,7 @@
     return (
       <div>
         <h1>Home</h1>
+        <h2>Olá mundo!</h2>
         <Counter/>
       </div>
     )
